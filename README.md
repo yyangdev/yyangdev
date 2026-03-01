@@ -1,24 +1,58 @@
-# 💫 About Me:
-бэкэнд - фуллстак разработчик на Python
+# Привет, я Янг спайс👋
 
+### 🕵️♂️ Backend Developer & Telegram Bot Architect
 
-## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yangspays) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yyangblya) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yyangdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yyangdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yyangdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yyangdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Я погружен в мир Python и Telegram. Строю ботов, которые живут своей жизнью, и автоматизирую процессы, чтобы вы могли расслабиться. Мой главный проект — игровой бот, который (надеюсь) до сих пор держит майдан.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yyangdev&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎮 Главный проект: [@itemperebot](https://t.me/itemperebot)
+
+*   **Роль:** Создатель, разработчик, гейм-дизайнер и технический администратор.
+*   **Суть:** Полноценный игровой бот с экономикой, взаимодействием и, возможно, парой криминальных схем. 👾
+*   **Статус:** `online` (если сервер не лег). Проверь сам!
+
+---
+
+### ⚙️ Мой технологический стек
+
+*   **Язык:** Python — мой основной инструмент.
+*   **Библиотеки для ботов:**
+    *   `aiogram` (v2/v3) — для всего, от простых команд до сложных конечных автоматов (FSM).
+    *   `asyncio` — чтобы бот не тупил, пока ждет ответ от пользователя.
+*   **Базы данных:** `SQLite` (идеально для ботов на BotHost), `SQLAlchemy` для порядка.
+*   **Хостинг:** Специфика Telegram — **BotHost**, **Render**, **Netlify**.
+*   **Инструменты:** Git, Docker (иногда), Linux.
+
+---
+
+### 📊 Моя активность (GitHub)
+
+*   **Репозитории:** В основном приватные (коммерческая тайна ботов), но здесь можно найти полезные сниппеты и наработки.
+*   **Цель:** Делать код чище, ботов — умнее, а пользователей — счастливее.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyangdev&show_icons=true&theme=dark&hide_border=true)](https://github.com/yyangdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyangdev&layout=compact&theme=dark&hide_border=true)](https://github.com/yyangdev)
+
+---
+
+### 🌐 Где меня найти (если очень надо)
+
+*   **Telegram:** [@crimeballas](https://t.me/crimeballas) (для связи, но без спама, ок?)
+*   **TikTok:** [@yyangblya](https://tiktok.com/@yyangblya) (тут я отдыхаю от кода)
+*   **Medium:** [@yangspays](https://medium.com/@yangspays) (редко, но метко пишу о разработке)
+*   **Официальный бот:** [@itemperebot](https://t.me/itemperebot) (заходи играть!)
+
+---
+
+### 💬 Цитата для настроения
+
+> "Чем больше автоматизации, тем больше времени на создание новых багов... то есть, фич!" 🐍
+
+---
+
+*   🎯 **Сейчас в работе:** Допиливаю фичу для ItempereBot и изучаю FastAPI для веб-части.
+*   💬 **Спроси меня:** О aiogram, асинхронности, или о том, как не сойти с ума, отлаживая 1000 строк кода бота.
+
+---
+[![](https://visitcount.itsvg.in/api?id=yyangdev&icon=5&color=10)](https://visitcount.itsvg.in)
