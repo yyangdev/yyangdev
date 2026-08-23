@@ -1,58 +1,62 @@
-# Привет, я Янг спайс👋
-
-### 🕵️♂️ Backend Developer & Telegram Bot Architect
-
-Я погружен в мир Python и Telegram. Строю ботов, которые живут своей жизнью, и автоматизирую процессы, чтобы вы могли расслабиться. Мой главный проект — игровой бот, который (надеюсь) до сих пор держит майдан.
+[![GitHub](https://img.shields.io/badge/GitHub-yyangdev-181717?style=for-the-badge&logo=github)](https://github.com/yyangdev)
+[![Telegram](https://img.shields.io/badge/Telegram-@crimeballas-0088cc?style=for-the-badge&logo=telegram)](https://t.me/crimeballas)
+[![Bot](https://img.shields.io/badge/Bot-@itemperebot-0088cc?style=for-the-badge&logo=telegram)](https://t.me/itemperebot)
 
 ---
 
-### 🎮 Главный проект: [@itemperebot](https://t.me/itemperebot)
-
-*   **Роль:** Создатель, разработчик, гейм-дизайнер и технический администратор.
-*   **Суть:** Полноценный игровой бот с экономикой, взаимодействием и, возможно, парой криминальных схем. 👾
-*   **Статус:** `online` (если сервер не лег). Проверь сам!
+[![Pinterest](https://assets.pinterest.com/ext/embed.html?id=581105158213835234)](https://assets.pinterest.com/ext/embed.html?id=581105158213835234)
 
 ---
 
-### ⚙️ Мой технологический стек
+**Python Developer**
 
-*   **Язык:** Python — мой основной инструмент.
-*   **Библиотеки для ботов:**
-    *   `aiogram` (v2/v3) — для всего, от простых команд до сложных конечных автоматов (FSM).
-    *   `asyncio` — чтобы бот не тупил, пока ждет ответ от пользователя.
-*   **Базы данных:** `SQLite` (идеально для ботов на BotHost), `SQLAlchemy` для порядка.
-*   **Хостинг:** Специфика Telegram — **BotHost**, **Render**, **Netlify**.
-*   **Инструменты:** Git, Docker (иногда), Linux.
+Building bots, APIs, and automation tools.
 
 ---
 
-### 📊 Моя активность (GitHub)
+## Projects
 
-*   **Репозитории:** В основном приватные (коммерческая тайна ботов), но здесь можно найти полезные сниппеты и наработки.
-*   **Цель:** Делать код чище, ботов — умнее, а пользователей — счастливее.
+### [@itemperebot](https://t.me/itemperebot)
+Telegram game bot with economy and RPG mechanics.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyangdev&show_icons=true&theme=dark&hide_border=true)](https://github.com/yyangdev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyangdev&layout=compact&theme=dark&hide_border=true)](https://github.com/yyangdev)
+### [tgpanel](https://github.com/yyangdev/tgpanel)
+Telegram account management panel. Mailing, monitoring, sessions.
+
+### [tdata-to-session](https://github.com/yyangdev/tdata-to-session)
+Convert Telegram Desktop `tdata` to Telethon `.session` files.
+
+### [majestick-famq-discord-bot](https://github.com/yyangdev/majestick-famq-discord-bot)
+Discord bot for RP family management. Tickets, AFK, 238 tests.
+
+### [MoodMap](https://github.com/yyangdev/MoodMap)
+CLI AI assistant for music, books, and advice based on mood.
+
+### [HH-Job-hunter](https://github.com/yyangdev/HH-Job-hunter)
+hh.ru parser with salary filter from 250k RUB.
+
+### [OptiPlus](https://github.com/yyangdev/OptiPlus) / [OptiCore](https://github.com/yyangdev/OptiCore-console-edition)
+Windows optimization and activation tools.
+
+### [WeatherAPP](https://github.com/yyangdev/WeatherAPP)
+Simple weather app using OpenWeatherMap API.
+
+### [contact-book-API](https://github.com/yyangdev/contact-book-API) / [todo-list](https://github.com/yyangdev/todo-list)
+CRUD apps with FastAPI and vanilla JS.
 
 ---
 
-### 🌐 Где меня найти (если очень надо)
+## Stack
 
-*   **Telegram:** [@crimeballas](https://t.me/crimeballas) (для связи, но без спама, ок?)
-*   **TikTok:** [@yyangblya](https://tiktok.com/@yyangblya) (тут я отдыхаю от кода)
-*   **Medium:** [@yangspays](https://medium.com/@yangspays) (редко, но метко пишу о разработке)
-*   **Официальный бот:** [@itemperebot](https://t.me/itemperebot) (заходи играть!)
+Python · FastAPI · aiogram · Telethon · discord.py · SQLite · SQLAlchemy · Docker · asyncio
 
 ---
 
-### 💬 Цитата для настроения
+## Contact
 
-> "Чем больше автоматизации, тем больше времени на создание новых багов... то есть, фич!" 🐍
-
----
-
-*   🎯 **Сейчас в работе:** Допиливаю фичу для ItempereBot и изучаю FastAPI для веб-части.
-*   💬 **Спроси меня:** О aiogram, асинхронности, или о том, как не сойти с ума, отлаживая 1000 строк кода бота.
+- **Telegram:** [@crimeballas](https://t.me/crimeballas)
+- **GitHub:** [yyangdev](https://github.com/yyangdev)
+- **Bot:** [@itemperebot](https://t.me/itemperebot)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yyangdev&icon=5&color=10)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=yyangdev&icon=5&color=10)
