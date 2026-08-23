@@ -4,7 +4,7 @@
 
 ---
 
-![Banner](https://i.pinimg.com/originals/58/11/05/581105158213835234.gif)
+![Banner](https://raw.githubusercontent.com/yyangdev/yyangdev/main/fc5a2025b338cc8da83f50a15a1052b9.gif)
 
 ---
 
