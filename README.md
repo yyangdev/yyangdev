@@ -53,9 +53,11 @@ Python · FastAPI · aiogram · Telethon · discord.py · SQLite · SQLAlchemy �
 
 ## Contact
 
-- **Telegram:** [@crimeballas](https://t.me/crimeballas)
+- **Telegram:** [@yyangov](https://t.me/yyangov)
 - **GitHub:** [yyangdev](https://github.com/yyangdev)
 - **Bot:** [@itemperebot](https://t.me/itemperebot)
+- **FunPay** [Yyangshop](https://funpay.com/users/15591452/)
+
 
 ---
 
