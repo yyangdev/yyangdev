@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://i.pinimg.com/originals/58/11/05/581105158213835234.gif" width="100%" alt="banner">
+![Banner](https://i.pinimg.com/originals/58/11/05/581105158213835234.gif)
 
 ---
 
