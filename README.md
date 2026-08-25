@@ -16,12 +16,6 @@ Building bots, APIs, and automation tools.
 
 ## Projects
 
-### [@itemperebot](https://t.me/itemperebot)
-Telegram game bot with economy and RPG mechanics.
-
-### [tgpanel](https://github.com/yyangdev/tgpanel)
-Telegram account management panel. Mailing, monitoring, sessions.
-
 ### [tdata-to-session](https://github.com/yyangdev/tdata-to-session)
 Convert Telegram Desktop `tdata` to Telethon `.session` files.
 
