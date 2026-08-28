@@ -1,6 +1,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-yyangdev-181717?style=for-the-badge&logo=github)](https://github.com/yyangdev)
-[![Telegram](https://img.shields.io/badge/Telegram-@crimeballas-0088cc?style=for-the-badge&logo=telegram)](https://t.me/crimeballas)
-[![Bot](https://img.shields.io/badge/Bot-@itemperebot-0088cc?style=for-the-badge&logo=telegram)](https://t.me/itemperebot)
+[![Telegram](https://img.shields.io/badge/Telegram-@yyangshop-0088cc?style=for-the-badge&logo=telegram)](https://t.me/yyangshop)
 
 ---
 
