@@ -9,38 +9,38 @@
 
 **Python Developer**
 
-Building bots, APIs, and automation tools.
+Создаю нагруженные API, Telegram, Discord, Max чат ботов.
 
 ---
 
-## Projects
+## Мои проекты
 
 ### [tdata-to-session](https://github.com/yyangdev/tdata-to-session)
-Convert Telegram Desktop `tdata` to Telethon `.session` files.
+Конвертирует файлы Tdata в telephone .session.
 
-### [majestick-famq-discord-bot](https://github.com/yyangdev/majestick-famq-discord-bot)
-Discord bot for RP family management. Tickets, AFK, 238 tests.
+### [majestick-famq-discord-bot](https://github.com/famqtier)
+Discord бот для управлением семьи на Majesic Rp
 
 ### [MoodMap](https://github.com/yyangdev/MoodMap)
-CLI AI assistant for music, books, and advice based on mood.
+CLI Ai помощник для выбора музыки книг и дневник настроения.
 
 ### [HH-Job-hunter](https://github.com/yyangdev/HH-Job-hunter)
-hh.ru parser with salary filter from 250k RUB.
+парсер вакансий Hh.ru
 
 ### [OptiPlus](https://github.com/yyangdev/OptiPlus) / [OptiCore](https://github.com/yyangdev/OptiCore-console-edition)
-Windows optimization and activation tools.
+Твикер для оптимизации PC
 
 ### [WeatherAPP](https://github.com/yyangdev/WeatherAPP)
-Simple weather app using OpenWeatherMap API.
+Простое приложение погоды.
 
 ### [contact-book-API](https://github.com/yyangdev/contact-book-API) / [todo-list](https://github.com/yyangdev/todo-list)
-CRUD apps with FastAPI and vanilla JS.
+API для  хранения контактов
 
 ---
 
 ## Stack
 
-Python · FastAPI · aiogram · Telethon · discord.py · SQLite · SQLAlchemy · Docker · asyncio
+Python, aiogram, discord.py, PostgreSQL, MySQL, FastAPI, Django, Go(Core)
 
 ---
 
